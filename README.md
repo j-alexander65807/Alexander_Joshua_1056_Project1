@@ -8,7 +8,7 @@ This is an individual project for mmed-1056
 > index.html, images folder, css folder, js folder, assets folder (containing everything you used in the creation of this project, wireframe, design brief psd) and includes folder
 - [ ] Include 3 wireframes for the selected website in the assets folder. 
 >  These wireframes will demonstrate your ability to breakdown an already developed website. Wireframes must be submitted as PDF’s. 
-- [ ] All ﬁles must be uploaded to GitHub following the best practices taught in Authoring.
+- [x] All ﬁles must be uploaded to GitHub following the best practices taught in Authoring.
 > ONLY THE MASTER BRANCH WILL BE GRADED. Secondary branches should be named appropriately.
 
 #### General Requirements
